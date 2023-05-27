@@ -10,15 +10,15 @@ Regarding the format, the new instances include all stochastic information in th
 Job	#risk	Type	VL	mu	sigma	Type	VL	mu	sigma
 
 Where:
-Job = number of the job.
-#risk = number of risks that the job has (can be 1, 2).
-Type = type of risk from the eight possibilities.
-VL = variability level of the risk.
-Mu = mean of normal distribution.
-Sigma = standard deviation of the normal distribution.
+Job = number of the job. <br />
+#risk = number of risks that the job has (can be 1, 2). <br />
+Type = type of risk from the eight possibilities. <br />
+VL = variability level of the risk. <br />
+Mu = mean of normal distribution. <br />
+Sigma = standard deviation of the normal distribution. <br />
 
 --
-María Victoria Gutiérrez Padilla
-M.Sc. Student
-Pontificia Universidad Javeriana Cali, Colombia
-magutierrez4@javerianacali.edu.co
+María Victoria Gutiérrez Padilla <br />
+M.Sc. Student <br />
+Pontificia Universidad Javeriana Cali, Colombia <br />
+magutierrez4@javerianacali.edu.co <br />
