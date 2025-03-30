@@ -18,7 +18,7 @@ Mu = mean of normal distribution. <br />
 Sigma = standard deviation of the normal distribution. <br />
 
 --<br />
-María Victoria Gutiérrez Padilla <br />
-M.Sc. Student <br />
-Pontificia Universidad Javeriana Cali, Colombia <br />
-magutierrez4@javerianacali.edu.co <br />
+Hidden for review <br />
+Ph.D. Student<br />
+Affiliation<br />
+mail@mail.com <br />
